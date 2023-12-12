@@ -1,0 +1,54 @@
+---
+title: "Alyssia Broncano"
+image: AlyssiaBroncano_headshot.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  id: about-block
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/bazinga_bee?s=09
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alyssia-broncano-144809143
+    - icon: envelope
+      text: Email
+      href: "mailto:avb44@case.edu"
+website:
+  site-url: "https://abroncano.quarto.blog/"
+  repo-url: "https://quartopub.com/abroncano/"
+---
+
+# Welcome to my website!
+
+Hi, I'm Alyssia (she/her), thanks for checking out my website! I'm looking forward to connecting with you!
+
+
+# About Me
+
+I am a second-year PhD student in the Pathology Department at Case Western Reserve University. My research focuses on studying how steroid sex hormones affect adaptive immune responses, specifically by investigating the role of estrogen on T cell development and functionality.
+
+Outside of my research, I enjoy traveling, hiking, and visiting museums. I also have four very spoiled cats!
+
+Please [contact me](mailto:avb44@case.edu) if you are interested in talking about science!
+
+
+# Education
+
+*PhD in Pathology* (expected 2027) | Case Western Reserve University School of Medicine
+
+*BS in Biology* (2022) | Case Western Reserve University
+
+
+# Experience
+
+*Graduate Student* (2022 - Present) | Case Western Reserve University School of Medicine
+
+* Investigating the role of estrogen in mediating immuno-protective signaling in T cells
+
+*Undergraduate Research Assistant* (2018-2022) | Case Western Reserve University Case Comprehensive Cancer Center
+
+* Studied the effects of sex hormones on hematopoietic stem cell maintenance

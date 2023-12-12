@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Alyssia Broncano"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - CV.qmd
+  site-url: "https://abroncano.quarto.blog/"
+  repo-url: "https://quartopub.com/abroncano/"
+
+format:
+  html:
+    embed-resources: true
+    theme: minty
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
