@@ -22,3 +22,6 @@ format:
     page-layout: full
 
 editor: visual
+
+execute: 
+  freeze: auto
